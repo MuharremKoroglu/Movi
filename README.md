@@ -29,10 +29,7 @@ This application is a movie application. With this app, developers can learn how
 
 
 
-
-
-https://user-images.githubusercontent.com/68854616/220551206-19d72e8c-fd7d-4922-9765-fc2a27084ab3.mp4
-
+https://user-images.githubusercontent.com/68854616/221555821-0935bfa8-1013-481b-98f6-dbee5b261fed.mp4
 
 
 
